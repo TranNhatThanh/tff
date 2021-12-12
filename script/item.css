@@ -1,0 +1,70 @@
+* {
+  box-sizing: border-box;
+	font-family: 'roboto';
+}
+
+
+.column {
+  float: left;
+  padding: 10px;
+  height: 550px; 
+}
+
+.left{
+  width: 30%;
+}
+ .right {
+	 width: 60%;
+	 height: 976px;
+}
+.middle {
+  width: 10%;
+}
+
+
+
+
+.title
+{
+	color:#FFFFFF;
+}
+.part{
+	width: 60px;
+	border-style: solid;
+	border-width:medium;
+	border-color: #2D2100;
+}
+.chitiet{
+	padding-left: 20px;
+	width: 1030px;
+}
+
+
+
+
+
+
+
+.headerchampion{
+	
+	margin-left: 100px;
+}
+.logothread{
+	width: 500px;
+}
+.backindex{
+	color: #ffdd67;
+	float: right;
+	padding-top:100px;
+	padding-right: 30px;
+	font-family: 'roboto';}
+
+
+body{
+	background-image: url("../img/weap.png");
+	background-repeat: no-repeat;
+	height: 100%;
+	background-position:top center;
+	background-size: cover;
+	
+}

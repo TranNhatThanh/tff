@@ -1,0 +1,100 @@
+@charset "utf-8";
+
+* {
+  box-sizing: border-box;
+	font-family: 'roboto';
+	
+}
+.title{
+	color: aliceblue;
+}
+
+.column {
+  float: left;
+  padding: 10px;
+  height: 300px;
+}
+
+.left  {
+  width: 30%;
+}
+.right{
+	width: 70%;
+	height: 90%;
+	border-style: solid;
+ 	border-width: thin;
+	border-color: #9E9E9E;
+}
+
+
+.leftpic{
+	width: 400;
+}
+.container{
+	width: 800px;
+	height: 2000px;
+}
+.comp-champ{
+	width: 45px;
+}
+.early{
+	width: 30px;
+	border-style: solid;
+ 	border-width: thin;
+	
+}
+.details{
+	display: flex;
+	justify-content: space-around;
+}
+.block{
+	display: flex;
+	justify-content: flex-start;
+}
+.container{
+	margin-left: 300px;
+}
+.two{
+	display: flex;
+	flex-direction: column;
+	align-content:  center;
+	justify-content: flex-end;
+}
+
+.title
+
+
+
+
+
+
+
+
+
+
+
+
+
+headerchampion{
+	
+	margin-left: 100px;
+}
+.logothread{
+	width: 500px;
+}
+.backindex{
+	color: #ffdd67;
+	float: right;
+	padding-top:100px;
+	padding-right: 30px;
+	font-family: 'roboto';}
+
+
+body{
+	background-image: url("../img/comp.png");
+	background-repeat: no-repeat;
+	height: 100%;
+	background-position:top center;
+	background-size: cover;
+	
+}

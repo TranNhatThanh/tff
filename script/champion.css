@@ -1,0 +1,108 @@
+@charset "utf-8";
+/* CSS Document */
+
+.headerchampion{
+	
+	margin-left: 100px;
+}
+.logothread{
+	width: 500px;
+}
+.backindex{
+	color: #ffdd67;
+	float: right;
+	padding-top:100px;
+	padding-right: 30px;
+	font-family: 'roboto';
+}
+.descchampion{
+	color: #E8DCC5;
+	display: flex;
+     justify-content: center;
+	font-family: 'roboto';
+}
+.column-1 {
+  float: left;
+	width: 30%;
+}
+
+
+.column-2 {
+  float: left;
+	width: 70%;
+}
+.left, .right {
+  width: 25%;
+}
+
+.middle {
+  width: 50%;
+}
+
+
+.title{
+	color:#e7e9ea;
+}
+.label{
+	color:#e7e9ea;
+}
+.row
+{
+	margin-top: 150px;
+	margin-left: 300px;
+}
+.title{
+	font-family: "roboto";
+}
+
+select {
+    border: 0px;
+    outline: 0px;
+}
+.label{
+	font-weight: bold;
+	color:#e7e9ea;
+	font-family: "roboto";
+}
+.champs{
+	width: 60px;
+}
+.champname{
+	color: #A6A1A1;
+	font-family: "roboto";
+}
+.listchamp{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-content: space-between;
+	flex-wrap: wrap;
+	margin-top: 10px;
+	padding-bottom: 500px;
+}
+
+.block{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-self: center;
+	padding: 15px;
+	justify-items:flex-start;
+}
+
+.verticalLine {
+  border-left:  thick solid #17313a;
+	width: 500px;
+	
+}
+.origin{
+	width: 25px;
+}
+
+body{
+	background-image: url("../img/lib.png");
+	background-repeat: no-repeat;
+	background-position:top center;
+	background-size: cover;
+	height: 100%;
+}

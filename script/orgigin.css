@@ -1,0 +1,62 @@
+* {
+  box-sizing: border-box;
+	font-family: 'roboto';
+}
+
+
+.column {
+  float: left;
+  padding: 10px;
+  height: 420px; }
+
+.left, .right {
+  width: 33.33%;
+	border-style: solid;
+ 	border-width: thin;
+	border-color: #9E9E9E;
+}
+
+.middle {
+  width: 33.33%;
+	height: 420px;
+	border-style: solid;
+ 	border-width: thin;
+	border-color: #9E9E9E;
+}
+
+/* Clear floats after the columns */
+
+.title{
+	color: azure;
+	
+}
+.square{
+	width: 30px;
+}
+
+.row{
+	margin-top: 50px;
+}
+.headerchampion{
+	
+	margin-left: 100px;
+}
+.logothread{
+	width: 500px;
+}
+.backindex{
+	color: #ffdd67;
+	float: right;
+	padding-top:100px;
+	padding-right: 30px;
+	font-family: 'roboto';}
+
+
+body{
+	background-image: url("../img/ori.png");
+	background-repeat: no-repeat;
+	height: 100%;
+	background-position:top center;
+	background-size: cover;
+	
+}

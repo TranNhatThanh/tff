@@ -1,0 +1,111 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	font-family: 'roboto';
+}
+.column-1 {
+  float: left;
+	width: 30%;
+}
+
+
+.column-2 {
+  float: left;
+	width: 70%;
+}
+
+.middle {
+  width: 50%;
+}
+.row
+{
+	margin-top: 150px;
+	margin-left: 300px;
+}
+ .tentuong{
+	color:#e7e9ea;
+	font-weight: bolder;
+}
+.tieude{
+	color:#e7e9ea;
+	font-weight: bolder;
+}
+.item{
+	border-style: solid;
+	border-width:medium;
+}
+.chiso{
+	color:#90989d;
+}
+.passive{
+	border-style: solid;
+	border-width:medium;
+}
+
+.kynang{
+padding-left: 50px;
+ border-style: solid;
+ border-width: thin;
+flex-direction: column;
+border-color: whitesmoke;
+	
+}
+.toc{
+	padding-left: 50px;
+	border-style: solid;
+ 	border-width: thin;
+	flex-direction: column;
+	border-color: whitesmoke;
+	
+}
+.he{
+	padding-left: 50px;
+	border-style: solid;
+ 	border-width: thin;
+	flex-direction: column;
+	border-color: whitesmoke;
+}
+.allychamp{
+	width: 65px;
+}
+.ally2{
+	padding-bottom: 120px;
+}
+
+
+
+
+
+
+
+
+.headerchampion{
+	
+	margin-left: 100px;
+}
+.logothread{
+	width: 500px;
+}
+.backindex{
+	color: #ffdd67;
+	float: right;
+	padding-top:100px;
+	padding-right: 30px;
+	font-family: 'roboto';}
+
+
+body{
+	background-image: url("../img/ww-clone.png");
+	background-repeat: no-repeat;
+	height: 100%;
+	background-position:top center;
+	background-size: cover;
+	
+}
+
+
+
+
+
+
+

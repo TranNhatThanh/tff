@@ -1,0 +1,13 @@
+
+
+
+html{
+	background-color: #0d202b;
+	font-size: 100%;
+	line-height: 1.6rem;
+	font-family: "UTM Swiss 721 Black Condensed";
+	box-sizing: border-box;
+	max-width: 95%;
+    overflow-x: hidden;
+	margin:auto;
+}
